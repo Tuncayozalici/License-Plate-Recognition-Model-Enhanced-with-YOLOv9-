@@ -32,9 +32,6 @@ To run the project in Colab:
 
 The model's performance is evaluated using the F1 score, a metric that combines precision and recall to provide a balanced assessment of detection accuracy. Additional metrics like precision and recall are also calculated.
 
-## 🌟 Results
-
-The trained model achieves an F1 score of [insert F1 score here] on the validation set. Example images showcasing license plate detections are displayed in the Colab notebook.
 
 ## Contributing 🤝
 
